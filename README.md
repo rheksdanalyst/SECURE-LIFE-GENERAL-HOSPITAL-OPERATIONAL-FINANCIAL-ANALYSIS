@@ -5,7 +5,7 @@ This project is my first individual project as a scholar in the Data Analytics T
 
 ## **ABOUT THE DATASET**
 
-The Secure Life General Hospital Operational and Performance Dataset is a synthetic dataset that has been designed to simulate patients’ admission, billing and insurance patterns in a real-world hospital. The dataset provides clear and structured information about patients’ dates of admission and discharge, attending departments, total bill amounts, percentage insurance coverage and payment statuses gathered from 2024 to 2025. It reflects admission, total bill generation and payment across departments. See dataset [here](Hospital_Patients_Dataset - Working.xlsx).
+The Secure Life General Hospital Operational and Performance Dataset is a synthetic dataset that has been designed to simulate patients’ admission, billing and insurance patterns in a real-world hospital. The dataset provides clear and structured information about patients’ dates of admission and discharge, attending departments, total bill amounts, percentage insurance coverage and payment statuses gathered from 2024 to 2025. It reflects admission, total bill generation and payment across departments. See dataset [here](https://1drv.ms/x/c/5a3253124bbcd4ef/IQDTGwPFGfEBQ6UuDVL-u12lATgnoMJm1wl4F9FUZoHZeuw?e=cGr4Sp).
 
 ## **PROBLEM STATEMENT**
 
